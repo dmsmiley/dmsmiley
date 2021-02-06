@@ -1,10 +1,10 @@
-# Education
+## Education
 
 * **Master of Theological Studies** - University of Notre Dame (GPA: 3.80)
 * **Master of Divinity** - Gordon-Conwell Theological Seminary (GPA: 3.84)
 * **Bachelor of Arts** - North Central University (GPA: 3.64)
 ___
-# Certifications
+## Certifications
   <details><summary>
   <strong>IBM Data Science Professional Certificate</strong> – <em>Coursera</em> (May 2020)
   </summary>
@@ -16,17 +16,21 @@ ___
   </details>
   
 ___
-# Computer Languages and Tools
+## Computer Languages and Tools
 <code><img height="40" src="assets/python.png"></code>
 <code><img height="40" src="assets/RStudio.png"></code>
 <code><img height="40" src="assets/pandas.png"></code>
 <code><img height="40" src="assets/visual-studio-code.png"></code>
+<br>
 <code><img height="40" src="assets/jupyter-notebook.png"></code>
 <code><img height="40" src="assets/aws.png"></code>
 <code><img height="40" src="assets/numpy.png"></code>
+<code><img height="40" src="assets/raspberry.png"></code>
+
+
   
 ___
-# Let's Connect
+## Let's Connect
 
 <a href="https://twitter.com/davidm_smiley">
   <img align="left" alt="David M. Smiley | Twitter" width="40px" src="assets/twitter-logo.png"/>
@@ -40,6 +44,14 @@ ___
 <a href="mailto:davidmsmiley@gmail.com">
   <img align="left" alt="David M. Smiley | Gmail" width="60px" src="assets/gmail.png"/>
 </a>
+  
+___
+##
+<a href="https://github.com/dmsmiley/dmsmiley">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmsmiley&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=dmsmiley&theme=highcontrast&show_icons=true&count_private=true)
 
 <!--
 
