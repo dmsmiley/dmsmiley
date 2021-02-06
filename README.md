@@ -27,6 +27,8 @@ ___
 <code><img height="40" src="assets/numpy.png"></code>
 <code><img height="40" src="assets/raspberry.png"></code>
 
+___
+## Data Science Projects
 
   
 ___
@@ -44,7 +46,7 @@ ___
 <a href="mailto:davidmsmiley@gmail.com">
   <img align="left" alt="David M. Smiley | Gmail" width="60px" src="assets/gmail.png"/>
 </a>
-  
+
 ___
 ##
 <a href="https://github.com/dmsmiley/dmsmiley">
