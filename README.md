@@ -27,8 +27,9 @@ ___
   
 ___
 # Let's Connect
-[![<code><img height="40" src="assets/twitter.png"></code>](https://twitter.com/davidm_smiley)]
-
+<a href="https://twitter.com/davidm_smiley">
+  <img align="left" alt="David M. Smiley | Twitter" width="21px" src="assets/twitter.png"/>
+</a>
 
 
 
