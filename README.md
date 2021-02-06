@@ -36,7 +36,9 @@ ___
 <a href="https://nd.academia.edu/DavidMSmiley">
   <img align="left" alt="David M. Smiley | Academia.edu" width="35px" src="assets/academia.png"/>
 </a>
-
+<a href="davidmsmiley@gmail.com">
+  <img align="left" alt="David M. Smiley | Gmail" width="35px" src="assets/gmail.png"/>
+</a>
 
 <!--
 **dmsmiley/dmsmiley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
