@@ -34,7 +34,7 @@ ___
   <img align="left" alt="David M. Smiley | LinkedIn" width="45px" src="assets/linkedin.png"/>
 </a>
 <a href="https://nd.academia.edu/DavidMSmiley">
-  <img align="left" alt="David M. Smiley | Academia.edu" width="40px" src="assets/academia.png"/>
+  <img align="left" alt="David M. Smiley | Academia.edu" width="35px" src="assets/academia.png"/>
 </a>
 
 
