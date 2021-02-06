@@ -29,7 +29,7 @@ ___
 # Let's Connect
 
 <a href="https://twitter.com/davidm_smiley">
-  <img align="left" alt="David M. Smiley | Twitter" width="5%" src="assets/twitter.png"/>
+  <img align="left" alt="David M. Smiley | Twitter" width="5%" src="assets/twitter-logo.png"/>
 </a>
 <a href="https://www.linkedin.com/in/david-m-smiley/">
   <img align="left" alt="David M. Smiley | LinkedIn" width="5%" src="assets/linkedin.png"/>
