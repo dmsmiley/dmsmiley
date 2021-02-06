@@ -27,6 +27,8 @@ ___
   
 ___
 # Let's Connect
+
+<!--
 <a href="https://twitter.com/davidm_smiley">
   <img align="left" alt="David M. Smiley | Twitter" width="40px" src="assets/twitter.png"/>
 </a>
@@ -40,7 +42,6 @@ ___
   <img align="left" alt="David M. Smiley | Gmail" width="60px" src="assets/gmail.png"/>
 </a>
 
-<!--
 **dmsmiley/dmsmiley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
