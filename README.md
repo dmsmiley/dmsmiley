@@ -1,8 +1,8 @@
 # Education
 
-* **Master of Theological Studies** - University of Notre Dame
-* **Master of Divinity** - Gordon-Conwell Theological Seminary
-* **Bachelor of Arts** - North Central University
+* **Master of Theological Studies** - University of Notre Dame (GPA: 3.80)
+* **Master of Divinity** - Gordon-Conwell Theological Seminary (GPA: 3.84)
+* **Bachelor of Arts** - North Central University (GPA: 3.64)
 ___
 # Certifications
   <details><summary>
@@ -17,11 +17,11 @@ ___
   
 ___
 # Computer Languages and Tools
-<code><img height="40" src="assets/jupyter-notebook.png"></code>
 <code><img height="40" src="assets/python.png"></code>
 <code><img height="40" src="assets/RStudio.png"></code>
 <code><img height="40" src="assets/pandas.png"></code>
 <code><img height="40" src="assets/visual-studio-code.png"></code>
+<code><img height="40" src="assets/jupyter-notebook.png"></code>
 
 
 <!--
