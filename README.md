@@ -27,6 +27,8 @@ ___
   
 ___
 # Let's Connect
+[![David M. Smiley | Twitter](assets/twitter.png)](https://twitter.com/davidm_smiley)
+
 
 <!--
 <a href="https://twitter.com/davidm_smiley">
