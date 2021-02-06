@@ -1,4 +1,12 @@
-### Hi there 👋
+# Education
+
+* MTS - University of Notre Dame
+* MDiv - Gordon-Conwell Theological Seminary
+* BA - North Central University
+___
+# Certifications
+
+
 
 <!--
 **dmsmiley/dmsmiley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
