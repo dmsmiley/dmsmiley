@@ -24,6 +24,10 @@ ___
 <code><img height="40" src="assets/jupyter-notebook.png"></code>
 <code><img height="40" src="assets/aws.png"></code>
 <code><img height="40" src="assets/numpy.png"></code>
+  
+___
+# Let's Connect
+[![<code><img height="40" src="assets/twitter.png"></code>](https://twitter.com/davidm_smiley)]
 
 
 
