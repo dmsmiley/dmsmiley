@@ -37,7 +37,7 @@ ___
   <img align="left" alt="David M. Smiley | Academia.edu" width="35px" src="assets/academia.png"/>
 </a>
 <a href="mailto:davidmsmiley@gmail.com">
-  <img align="left" alt="David M. Smiley | Gmail" width="40px" src="assets/gmail.png"/>
+  <img align="left" alt="David M. Smiley | Gmail" width="45px" src="assets/gmail.png"/>
 </a>
 
 <!--
