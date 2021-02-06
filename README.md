@@ -27,10 +27,7 @@ ___
   
 ___
 # Let's Connect
-<code><img heigh="40" [![David M. Smiley | Twitter](assets/twitter.png)](https://twitter.com/davidm_smiley)></code>
 
-
-<!--
 <a href="https://twitter.com/davidm_smiley">
   <img align="left" alt="David M. Smiley | Twitter" width="40px" src="assets/twitter.png"/>
 </a>
@@ -43,6 +40,8 @@ ___
 <a href="mailto:davidmsmiley@gmail.com">
   <img align="left" alt="David M. Smiley | Gmail" width="60px" src="assets/gmail.png"/>
 </a>
+
+<!--
 
 **dmsmiley/dmsmiley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
