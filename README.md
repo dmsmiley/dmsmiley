@@ -9,19 +9,23 @@ ___
   <strong>IBM Data Science Professional Certificate</strong> – <em>Coursera</em> (May 2020)
   </summary>
   <br>
-  Open Source Tools for Data Science
-  Python for Data Science and AI
-  Databases and SQL for Data Science
-  Data Analysis, Visualization, and Machine Learning with Python
+  <strong>Courses</strong>
+  <ol>
+    <li>Open Source Tools for Data Science</li>
+    <li>Python for Data Science and AI</li>
+    <li>Databases and SQL for Data Science</li>
+    <li>Data Analysis, Visualization, and Machine Learning with Python</li>
+  </ol>
   </details>
   
 ___
-## Computer Languages and Tools
+## Languages and Tools
 <code><img height="40" src="assets/python.png"></code>
 <code><img height="40" src="assets/RStudio.png"></code>
+<code><img height="40" src="assets/sql.png"></code>
 <code><img height="40" src="assets/pandas.png"></code>
-<code><img height="40" src="assets/visual-studio-code.png"></code>
 <br>
+<code><img height="40" src="assets/visual-studio-code.png"></code>
 <code><img height="40" src="assets/jupyter-notebook.png"></code>
 <code><img height="40" src="assets/aws.png"></code>
 <code><img height="40" src="assets/numpy.png"></code>
@@ -29,7 +33,24 @@ ___
 
 ___
 ## Data Science Projects
-
+  <details><summary>
+  <a href='https://github.com/dmsmiley/Italian_Restaurant_Review_Boston'<strong>Italian Restaurant Reviews - Boston</strong></a>
+  </summary>
+  <br>
+  <strong>Skills</strong>
+  <ul>
+    <li>Scrape restaurant reviews from FourSquare API</li>
+    <li>Capture GeoJSON data from Boston Open Data</li>
+  </ul>
+  <strong>Python Libraries</strong>
+  <ul>
+    <li>Pandas</li>
+    <li>NumPy</li>
+    <li>BeautifulSoup</li>
+    <li>Folium</li>
+    <li>MatplotLib</li>
+    <li>GeoPy</li>
+  </details>
   
 ___
 ## Let's Connect
