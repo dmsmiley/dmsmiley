@@ -6,10 +6,13 @@
 ___
 # Certifications
 
-* **IBM Data Science Professional Certificate** – *Coursera* (May 2020)
-Open Source Tools for Data Science, Python for Data Science and AI, Databases and SQL          
-for Data Science, Data Analysis, Visualization, and Machine Learning with Python
-
+* <details><summary>**IBM Data Science Professional Certificate** – *Coursera* (May 2020)</summary>
+  <br>
+  Open Source Tools for Data Science
+  Python for Data Science and AI
+  Databases and SQL for Data Science
+  Data Analysis, Visualization, and Machine Learning with Python
+</details>
 ___
 # Languages and Tools
 <code><img height="40" src="assets/jupyter-notebook.png"></code>
