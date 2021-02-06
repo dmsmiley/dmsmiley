@@ -6,7 +6,7 @@
 ___
 # Certifications
   <details><summary>
-  * <strong>IBM Data Science Professional Certificate</strong> – <em>Coursera</em> (May 2020)
+  <strong>IBM Data Science Professional Certificate</strong> – <em>Coursera</em> (May 2020)
   </summary>
   <br>
   Open Source Tools for Data Science
@@ -15,9 +15,12 @@ ___
   Data Analysis, Visualization, and Machine Learning with Python
   </details>
 ___
-# Languages and Tools
+# Computer Languages and Tools
 <code><img height="40" src="assets/jupyter-notebook.png"></code>
 <code><img height="40" src="assets/python.png"></code>
+<code><img height="40" src="assets/RStudio.png"></code>
+<code><img height="40" src="assets/pandas.png"></code>
+<code><img height="40" src="assets/visual-studio-code.png"></code>
 
 
 <!--
