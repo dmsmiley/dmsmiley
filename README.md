@@ -5,9 +5,9 @@
 * **Bachelor of Arts** - North Central University
 ___
 # Certifications
-  <details>
+  <details><summary>
 * **IBM Data Science Professional Certificate** – *Coursera* (May 2020)
-  <summary></summary>
+  </summary>
   <br>
   Open Source Tools for Data Science
   Python for Data Science and AI
