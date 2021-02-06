@@ -29,16 +29,16 @@ ___
 # Let's Connect
 
 <a href="https://twitter.com/davidm_smiley">
-  <img align="left" alt="David M. Smiley | Twitter" width="5%" src="assets/twitter-logo.png"/>
+  <img align="left" alt="David M. Smiley | Twitter" width="40px" src="assets/twitter-logo.png"/>
 </a>
 <a href="https://www.linkedin.com/in/david-m-smiley/">
-  <img align="left" alt="David M. Smiley | LinkedIn" width="7%" src="assets/linkedin.png"/>
+  <img align="left" alt="David M. Smiley | LinkedIn" width="45px" src="assets/linkedin.png"/>
 </a>
 <a href="https://nd.academia.edu/DavidMSmiley">
-  <img align="left" alt="David M. Smiley | Academia.edu" width="3%" src="assets/academia.png"/>
+  <img align="left" alt="David M. Smiley | Academia.edu" width="35px" src="assets/academia.png"/>
 </a>
 <a href="mailto:davidmsmiley@gmail.com">
-  <img align="left" alt="David M. Smiley | Gmail" width="8%" src="assets/gmail.png"/>
+  <img align="left" alt="David M. Smiley | Gmail" width="60px" src="assets/gmail.png"/>
 </a>
 
 <!--
