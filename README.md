@@ -6,7 +6,7 @@
 ___
 # Certifications
   <details><summary>
-* **IBM Data Science Professional Certificate** – *Coursera* (May 2020)
+  * <strong>IBM Data Science Professional Certificate</strong> – <em>Coursera</em> (May 2020)
   </summary>
   <br>
   Open Source Tools for Data Science
