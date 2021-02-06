@@ -14,6 +14,7 @@ ___
   Databases and SQL for Data Science
   Data Analysis, Visualization, and Machine Learning with Python
   </details>
+  
 ___
 # Computer Languages and Tools
 <code><img height="40" src="assets/jupyter-notebook.png"></code>
