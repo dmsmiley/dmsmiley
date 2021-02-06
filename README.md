@@ -9,8 +9,8 @@ ___
 * 
 ___
 # Languages and Tools
-<code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/jupyter-notebook.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/python.png"></code>
+<code><img height="40" src="assets/jupyter-notebook.png"></code>
+<code><img height="40" src="assets/python.png"></code>
 
 
 <!--
