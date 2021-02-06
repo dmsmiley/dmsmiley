@@ -32,10 +32,10 @@ ___
   <img align="left" alt="David M. Smiley | Twitter" width="40px" src="assets/twitter.png"/>
 </a>
 <a href="https://www.linkedin.com/in/david-m-smiley/">
-  <img align="left" alt="David M. Smiley | LinkedIn" width="45px" heigth="45px" src="assets/linkedin.png"/>
+  <img align="left" alt="David M. Smiley | LinkedIn" width="45px" src="assets/linkedin.png"/>
 </a>
 <a href="https://nd.academia.edu/DavidMSmiley">
-  <img align="left" alt="David M. Smiley | Academia.edu" width="33px" src="assets/academia.png"/>
+  <img align="left" alt="David M. Smiley | Academia.edu" width="33px" heigth="25px" src="assets/academia.png"/>
 </a>
 <a href="mailto:davidmsmiley@gmail.com">
   <img align="left" alt="David M. Smiley | Gmail" width="60px" src="assets/gmail.png"/>
