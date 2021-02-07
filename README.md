@@ -11,10 +11,13 @@ ___
   <br>
   <strong>Courses</strong>
   <ol>
-    <li>Open Source Tools for Data Science</li>
+    <li>What is Data Science?</li>
+    <li>Tools for Data Science</li>
+    <li>Data Science Methodology</li>
     <li>Python for Data Science and AI</li>
-    <li>Databases and SQL for Data Science</li>
+    <li>Databases and SQL for Data Science with Python</li>
     <li>Data Analysis, Visualization, and Machine Learning with Python</li>
+    <li><a href="https://github.com/dmsmiley/Italian_Restaurant_Review_Boston">Applied Data Science Capstone</a></li>
   </ol>
   </details>
   
