@@ -12,7 +12,7 @@ ___
   <details><summary>
   MicroMasters in Data Science - <em>UC San Diego</em> (In Progress)</summary>
   <br>
-  <strong>Courses</strong>
+  <strong>Graduate-Level Courses</strong>
   <ol>
     <li>Python for Data Science (In Progress)</li>
     <li>Probability and Statistics in Data Science Using Python (In Progress)</li>
