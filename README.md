@@ -10,6 +10,18 @@
 ___
 ## Certifications
   <details><summary>
+  MicroMasters in Data Science - <em>UC San Diego</em> (In Progress)</summary>
+  <br>
+  <strong>Courses</strong>
+  <ol>
+    <li>Python for Data Science (In Progress)</li>
+    <li>Probability and Statistics in Data Science Using Python (In Progress)</li>
+    <li>Machine Learning Fundamentals (Summer 2021)</li>
+    <li>Big Data Analytics Using Spark (Summer 2021)</li>
+  </ol>
+  </details>
+  
+  <details><summary>
   <a href="https://coursera.org/share/374bbba40c6456b1f397e0cd05d2fccf">IBM Data Science Professional Certificate</a> – <em>Coursera</em> (May 2020)
   </summary>
   <br>
