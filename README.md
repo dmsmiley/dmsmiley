@@ -6,11 +6,11 @@
 ___
 ## Certifications
   <details><summary>
-  <strong>IBM Data Science Professional Certificate</strong> – <em>Coursera</em> (May 2020)
+  <a href="https://coursera.org/share/374bbba40c6456b1f397e0cd05d2fccf">IBM Data Science Professional Certificate</a> – <em>Coursera</em> (May 2020)
   </summary>
   <br>
-  <strong>Courses</strong>
-  <ol>
+  <strong>150 Hours of Coursework and Projects</strong>
+   <ol>
     <li>What is Data Science?</li>
     <li>Tools for Data Science</li>
     <li>Data Science Methodology</li>
