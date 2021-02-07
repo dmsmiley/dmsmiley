@@ -70,6 +70,24 @@ ___
     <li>MatplotLib</li>
     <li>GeoPy</li>
   </details>
+  <details><summary>
+  <a href='https://github.com/dmsmiley/USS_Indianapolis'<strong>Surviving the USS Indianapolis with Machine Learning (In Progress)</strong></a>
+  </summary>
+  <br>
+  <strong>Skills</strong>
+  <ul>
+    <li>Working with local archivists to collect and clean data</li>
+    <li>Training and testing machine learning models</li>
+    <li>Using logistic regression to predict survivability</li>
+  </ul>
+  <strong>Python Libraries</strong>
+  <ul>
+    <li>Pandas</li>
+    <li>NumPy</li>
+    <li>MatplotLib</li>
+    <li>Seaborn</li>
+    <li>Scikit-Learn</li>
+  </details>
   
 ___
 ## Let's Connect
