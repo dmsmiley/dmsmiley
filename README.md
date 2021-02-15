@@ -46,7 +46,6 @@ ___
 <br>
 <code><img height="40" src="assets/visual-studio-code.png"></code>
 <code><img height="40" src="assets/jupyter-notebook.png"></code>
-<code><img height="40" src="assets/aws.png"></code>
 <code><img height="40" src="assets/numpy.png"></code>
 <code><img height="40" src="assets/raspberry.png"></code>
 
