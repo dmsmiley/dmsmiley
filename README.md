@@ -58,7 +58,7 @@ ___
 ___
 ## Data Science Projects
   <details><summary>
-  <a href='https://github.com/dmsmiley/Predicting-Salaries'<strong>Classifying and Predicting Salary</strong></a>
+  <a href='https://github.com/dmsmiley/Predicting-Salaries'<strong>Classifying and Predicting Salaries</strong></a>
   </summary>
   <br>
   <strong>Skills</strong>
