@@ -57,6 +57,23 @@ ___
 ___
 ## Data Science Projects
   <details><summary>
+  <a href='https://github.com/dmsmiley/Predicting-Salaries'<strong>Classifying and Predicting Salary</strong></a>
+  </summary>
+  <br>
+  <strong>Skills</strong>
+  <ul>
+    <li>Comparing classification machine learning algorithms: Logistic Regression, Decision Tree, Naive Bayes, and K-Nearest Neighbors</li>
+    <li>Visualizing confusion matrices and AUROC</li>
+  </ul>
+  <strong>Python Libraries</strong>
+  <ul>
+    <li>Pandas</li>
+    <li>NumPy</li>
+    <li>Seaborn</li>
+    <li>Scikit-Learn</li>
+    <li>MatplotLib</li>
+  </details>
+  <details><summary>
   <a href='https://github.com/dmsmiley/Italian_Restaurant_Review_Boston'<strong>Italian Restaurant Reviews - Boston</strong></a>
   </summary>
   <br>
