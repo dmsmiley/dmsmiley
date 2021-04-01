@@ -14,14 +14,15 @@ ___
 ___
 ## Certifications
   <details><summary>
-  MicroMasters in Data Science - <em>UC San Diego</em> (In Progress)</summary>
+  Data Science: Statistics and Machine Learning in R - <em>Johns Hopkins University</em> (In Progress)</summary>
   <br>
-  <strong>Graduate-Level Courses</strong>
+  <strong>200 Hours of Coursework and Projects</strong>
   <ol>
-    <li>Python for Data Science (In Progress)</li>
-    <li>Probability and Statistics in Data Science Using Python (In Progress)</li>
-    <li>Machine Learning Fundamentals (Summer 2021)</li>
-    <li>Big Data Analytics Using Spark (Summer 2021)</li>
+    <li>Statistical Inference</li>
+    <li>Regression Models</li>
+    <li>Practical Machine Learning</li>
+    <li>Developing Data Products</li>
+    <li>Data Science Capstone</li>
   </ol>
   </details>
   
