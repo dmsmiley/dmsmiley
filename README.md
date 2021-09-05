@@ -13,9 +13,9 @@ ___
 * **Bachelor of Arts** - North Central University (GPA: 3.64)
 ___
 ## Certifications
-  <summary>
+  <details><summary>
   Deep Learning Specialization - <em>DeepLearning.AI</em> (In Progress)
-  </summary>
+  </summary></details>
   
   <details><summary>
   <a href="https://coursera.org/share/374bbba40c6456b1f397e0cd05d2fccf">IBM Data Science Professional Certificate</a> – <em>Coursera</em> (May 2020)
