@@ -14,16 +14,7 @@ ___
 ___
 ## Certifications
   <details><summary>
-  Data Science: Statistics and Machine Learning in R - <em>Johns Hopkins University</em> (In Progress)</summary>
-  <br>
-  <strong>200 Hours of Coursework and Projects</strong>
-  <ol>
-    <li>Statistical Inference</li>
-    <li>Regression Models</li>
-    <li>Practical Machine Learning</li>
-    <li>Developing Data Products</li>
-    <li>Data Science Capstone</li>
-  </ol>
+  Deep Learning Specialization - <em>DeepLearning.AI</em> (In Progress)</summary>
   </details>
   
   <details><summary>
