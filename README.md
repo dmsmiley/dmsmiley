@@ -7,10 +7,10 @@ ___
 
 ___
 ## Education
-
-* **Master of Theological Studies** - University of Notre Dame (GPA: 3.80)
-* **Master of Divinity** - Gordon-Conwell Theological Seminary (GPA: 3.84)
-* **Bachelor of Arts** - North Central University (GPA: 3.64)
+* **Master of Science - Data Science** - University of Notre Dame
+* **Master of Theological Studies** - University of Notre Dame
+* **Master of Divinity** - Gordon-Conwell Theological Seminary
+* **Bachelor of Arts** - North Central University
 ___
 ## Certifications
   <details><summary>
