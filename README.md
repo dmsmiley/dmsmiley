@@ -7,7 +7,7 @@ ___
 
 ___
 ## Education
-* **Master of Science - Data Science** - University of Notre Dame
+* **Master of Science in Data Science** - University of Notre Dame (In Progress)
 * **Master of Theological Studies** - University of Notre Dame
 * **Master of Divinity** - Gordon-Conwell Theological Seminary
 * **Bachelor of Arts** - North Central University
