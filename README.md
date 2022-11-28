@@ -45,6 +45,7 @@ ___
 <code><img height="40" src="assets/jupyter-notebook.png"></code>
 <code><img height="40" src="assets/numpy.png"></code>
 <code><img height="40" src="assets/raspberry.png"></code>
+<code><img height="40" src="assets/tidyverse-logo.png"></code>
 
 ___
 ## Data Science Projects
