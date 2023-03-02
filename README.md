@@ -10,7 +10,7 @@ ___
 * **Master of Theological Studies** - University of Notre Dame 
 * **Master of Divinity** - Gordon-Conwell Theological Seminary 
 * **Bachelor of Arts** - North Central University 
-___ |
+___ 
 ## Certifications
   <details><summary>
   Deep Learning Specialization - <em>DeepLearning.AI</em> (In Progress)
