@@ -5,13 +5,13 @@
 ___
 <a href="https://github.com/dmsmiley/Smiley_CV">See Full CV</a>
 
-___ | <a href="https://app.daily.dev/davidmsmiley"><img src="https://api.daily.dev/devcards/d588243259bc4c688fad7e9dc07c9246.png?r=xvb" width="400" alt="David M. Smiley's Dev Card"/></a>
-## Education|
-* **Master of Science in Data Science** - University of Notre Dame (In Progress)|
-* **Master of Theological Studies** - University of Notre Dame|
-* **Master of Divinity** - Gordon-Conwell Theological Seminary|
-* **Bachelor of Arts** - North Central University|
-___ |
+___ 
+## Education | <a href="https://app.daily.dev/davidmsmiley"><img src="https://api.daily.dev/devcards/d588243259bc4c688fad7e9dc07c9246.png?r=xvb" width="400" alt="David M. Smiley's Dev Card"/></a>
+* **Master of Science in Data Science** - University of Notre Dame (In Progress)
+* **Master of Theological Studies** - University of Notre Dame
+* **Master of Divinity** - Gordon-Conwell Theological Seminary
+* **Bachelor of Arts** - North Central University
+___ 
 ## Certifications
   <details><summary>
   Deep Learning Specialization - <em>DeepLearning.AI</em> (In Progress)
