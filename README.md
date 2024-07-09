@@ -6,7 +6,7 @@ ___
 <a href="https://github.com/dmsmiley/Smiley_CV">See Full CV</a>
 ___ 
 ## Education 
-* **Master of Science in Data Science** - University of Notre Dame (In Progress) 
+* **Master of Science in Data Science** - University of Notre Dame
 * **Master of Theological Studies** - University of Notre Dame 
 * **Master of Divinity** - Gordon-Conwell Theological Seminary 
 * **Bachelor of Arts** - North Central University 
