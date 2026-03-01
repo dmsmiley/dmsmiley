@@ -6,7 +6,7 @@ ___
 <a href="https://github.com/dmsmiley/Smiley_CV">See Full CV</a>
 ___ 
 ## Education 
-* **PhD - Digital Approaches to Sacred Texts** (ABD) - Vrije University Amsterdam
+* **PhD - Digital Approaches to Sacred Texts** (ABD, Anticipated May 2028) - Vrije University Amsterdam
 * **Master of Science in Data Science** - University of Notre Dame
 * **Master of Theological Studies** - University of Notre Dame 
 * **Master of Divinity** - Gordon-Conwell Theological Seminary 
